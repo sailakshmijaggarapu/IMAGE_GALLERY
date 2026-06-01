@@ -1,20 +1,24 @@
-Responsive Image Gallery
-Project Description
+# Responsive Image Gallery
 
-This project showcases a responsive image gallery built using HTML and CSS Grid. The gallery arranges images in three columns on larger screens and automatically switches to a single-column layout on smaller mobile devices, ensuring a smooth viewing experience across different screen sizes.
+## Overview
 
-Key Features
-Mobile-friendly responsive design
-Built with CSS Grid for layout management
-Three-column arrangement on desktop screens
-Single-column display on mobile devices
-Interactive hover effects on images
-Tools and Technologies
-HTML5
-CSS3
-Running the Project
-Download or copy the project files to your computer.
-Open the project folder.
-Launch the index.html file in any web browser to view the gallery.
+This project is a responsive image gallery created using HTML and CSS Grid. The gallery displays images in a 3-column layout on desktop screens and automatically adjusts to a single-column layout on mobile devices.
 
-This responsive gallery demonstrates how CSS Grid can be used to create attractive and adaptable image layouts for different devices.# IMAGE_GALLERY
+## Features
+
+* Responsive design
+* CSS Grid layout
+* 3-column desktop view
+* 1-column mobile view
+* Image hover effects
+
+## Technologies Used
+
+* HTML5
+* CSS3
+
+## How to Run
+
+1. Download or clone the repository.
+2. Open the project folder.
+3. Open `index.html` in a web browser.
